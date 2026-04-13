@@ -1,4 +1,3 @@
 # Homelab-Ops
-A collection of infrastructure automation, scripts, and configs I use for homelab and sys administration tasks.
+This repository is just a collection of tools, scripts and other config files I normally use in my homelab. 
 
-The goal is to keep common setup tasks, random projects, and useful tooling in one place.
